@@ -1,0 +1,27 @@
+[02-Aug-2021 07:12:05 UTC] Sync process for Gutenberg Blocks has started.
+[02-Aug-2021 07:12:05 UTC] CATEGORY:Importing categories..
+[02-Aug-2021 07:12:05 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[02-Aug-2021 07:12:05 UTC] CATEGORY:Completed category import.
+[02-Aug-2021 07:12:05 UTC] BLOCK: Getting Total Blocks
+[02-Aug-2021 07:12:05 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg
+[02-Aug-2021 07:12:05 UTC] BLOCK: Requests count 3
+[02-Aug-2021 07:12:05 UTC] BLOCK: Importing request 1 ..
+[02-Aug-2021 07:12:05 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1
+[02-Aug-2021 07:12:06 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[02-Aug-2021 07:12:06 UTC] BLOCK: Completed request 1
+[02-Aug-2021 07:12:06 UTC] BLOCK: Importing request 2 ..
+[02-Aug-2021 07:12:06 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2
+[02-Aug-2021 07:12:07 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[02-Aug-2021 07:12:07 UTC] BLOCK: Completed request 2
+[02-Aug-2021 07:12:07 UTC] BLOCK: Importing request 3 ..
+[02-Aug-2021 07:12:07 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3
+[02-Aug-2021 07:12:08 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[02-Aug-2021 07:12:08 UTC] BLOCK: Completed request 3
+[02-Aug-2021 07:12:08 UTC] SITE: Getting Total Sites
+[02-Aug-2021 07:12:08 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[02-Aug-2021 07:12:08 UTC] SITE: Request count 1
+[02-Aug-2021 07:12:08 UTC] SITE: Importing request 1 ..
+[02-Aug-2021 07:12:08 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[02-Aug-2021 07:12:08 UTC] SITE: Storing in option ast-block-templates-sites-1
+[02-Aug-2021 07:12:08 UTC] SITE: Completed request 1
+[02-Aug-2021 07:12:08 UTC] Sync process for Gutenberg Blocks is done.
